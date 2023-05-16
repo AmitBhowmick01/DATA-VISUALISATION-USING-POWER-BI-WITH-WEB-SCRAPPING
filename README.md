@@ -2,7 +2,7 @@
 
 This GitHub repository provides a Python script for scraping COVID-19 data from the website https://www.worldometers.info/coronavirus/. The script extracts relevant information and saves it in a structured format. Additionally, it includes a Power BI visualization to analyze and visualize the scraped data. With this repository, you can easily collect COVID-19 data and gain insights using Power BI, facilitating data-driven decision-making
 
-![Covid19 viz ss](https://github.com/AmitBhowmick01/DATA-VISUALISATION-USING-POWER-BI-WITH-WEB-SCRAPPING/assets/126709893/38639a21-1464-4575-8496-ed80437d5c5a)
+![Screenshot (62)](https://github.com/AmitBhowmick01/DATA-VISUALISATION-USING-POWER-BI-WITH-WEB-SCRAPPING/assets/126709893/66cddbda-1c0c-437f-8c94-6c68f967ebf6)
 
 The study of novel coronavirus statistics plays a crucial role in understanding the scope and impact of the pandemic. 
 
